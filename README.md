@@ -7,6 +7,8 @@
 # Sobre o Projeto:
 Projeto baseado no vídeo da Rafaella Ballerini chamado "FORMULÁRIOS COM HTML e CSS!"
 
+![RafaellaB](https://user-images.githubusercontent.com/103468962/171068869-486f3213-1de6-441f-b67c-7368ce369243.png)
+
 # Técnologias Utilizadas:
 ## Front-End
 * HTML5
