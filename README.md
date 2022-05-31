@@ -14,3 +14,10 @@ Projeto baseado no vídeo da Rafaella Ballerini chamado "FORMULÁRIOS COM HTML e
 * HTML5
 * CSS3
 
+# Aprendizado:
+* Posicionamento com Flexbox
+* Tipos de Inputs
+* Tipos de Fontes
+
+# Estado do projeto:
+Falta deixar responsivo.
