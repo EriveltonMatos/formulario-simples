@@ -20,4 +20,4 @@ Projeto baseado no vídeo da Rafaella Ballerini chamado "FORMULÁRIOS COM HTML e
 * Tipos de Fontes
 
 # Estado do projeto:
-Falta deixar responsivo.
+Falta deixar responsivo;
